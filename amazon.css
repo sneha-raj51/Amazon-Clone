@@ -20,7 +20,7 @@
 	justify-content: space-evenly;
 }
 .nav-box1{
-	background-image: url('C:/Users/rajsa/Downloads/Amazon-Logo-1024x426-1.webp');
+	background-image: url('Clone Images/Amazon-Logo-1024x426-1.webp');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -199,7 +199,7 @@ justify-content: space-evenly;
 }
 /*-- --- Hero section---*/
 .hero{
-	background-image: url('C:/Users/rajsa/Downloads/hero_image.jpg');
+	background-image: url('Clone images/hero_image.jpg');
 	height:350px;
 
 	background-repeat: no-repeat;
